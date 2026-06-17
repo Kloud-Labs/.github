@@ -1,9 +1,6 @@
 <p align="center">
   <img src="./logo.png" alt="Kloud Labs Banner" width="100%">
 </p>
-
-<h1 align="center">Kloud Labs</h1>
-
 <p align="center">
   Building modern educational experiences.
 </p>
